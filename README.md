@@ -13,6 +13,12 @@ Things that could be cool to implement, that aren't done yet, and might one day 
 - [x] Add "how to play"
 - [x] Add different difficulty AIs
 
+## This Repo was forked to add some features:
+- [ ] Board controls (move history)
+- [ ] Board themes
+- [ ] Improved mobile view
+- [ ] Danger Moves
+
 ## Local AI
 
 The default Dockerfile will disable server-side AI, and instead compile the AI Agent as web-assembly and run in a
